@@ -2,7 +2,7 @@
 
 _Última actualización: 17 de octubre de 2026_
 
-**Responsable y vendedor de la suscripción:** [NOMBRE Y APELLIDOS], NIF [NIF], [DOMICILIO DE CONTACTO]. Contacto: leora.agencia.ia@gmail.com
+**Responsable y vendedor de la suscripción:** Leora Digital. Contacto: leora.agencia.ia@gmail.com
 
 Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas.
 
@@ -28,7 +28,7 @@ Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas
 
 _Last updated: October 17, 2026_
 
-**Controller and subscription seller:** [FULL NAME], tax ID [NIF], [CONTACT ADDRESS]. Contact: leora.agencia.ia@gmail.com
+**Controller and subscription seller:** Leora Digital. Contact: leora.agencia.ia@gmail.com
 
 These terms govern the use of **Fuera Tóxicos**. By using the app you accept them.
 
