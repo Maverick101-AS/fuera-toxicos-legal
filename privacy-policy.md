@@ -2,7 +2,7 @@
 
 _Última actualización: 17 de octubre de 2026_
 
-**Responsable del tratamiento:** Leora Digital, Murcia (España). Contacto: leora.agencia.ia@gmail.com
+**Responsable del tratamiento:** Antonio Salas Poveda (Leora Digital), Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
 
 **Fuera Tóxicos** no te pide registro ni cuenta de usuario, no recopila tu nombre ni ningún dato que te identifique —la única excepción es el correo que puedes dejar, si quieres, al enviar una propuesta (punto 3)— y no incluye anuncios ni herramientas de seguimiento o analítica de terceros. Todo el contenido informativo (fichas de químicos, sustituciones, evidencia científica) está incluido en la app y se puede consultar sin conexión a internet.
 
@@ -49,7 +49,7 @@ Para consultas sobre privacidad, escribe a **leora.agencia.ia@gmail.com**.
 
 _Last updated: October 17, 2026_
 
-**Data controller:** Leora Digital, Murcia (Spain). Contact: leora.agencia.ia@gmail.com
+**Data controller:** Antonio Salas Poveda (Leora Digital), Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
 
 **Fuera Tóxicos** asks for no sign-up or user account and collects no name or data that identifies you — the only exception is the email you may optionally leave when sending a proposal (point 3) — and includes no ads or third-party tracking/analytics tools. All informational content (chemical entries, swaps, scientific evidence) ships with the app and can be read offline.
 
