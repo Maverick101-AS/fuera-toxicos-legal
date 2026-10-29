@@ -1,6 +1,6 @@
 # Política de privacidad — Fuera Tóxicos
 
-_Última actualización: 17 de octubre de 2026_
+_Última actualización: 29 de octubre de 2026_
 
 **Responsable del tratamiento:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
 
@@ -29,7 +29,7 @@ Base jurídica del tratamiento: tu consentimiento, que das al pulsar el botón d
 
 **4. Los "me gusta" de las recetas.** Al abrir la sección Recetas, la app descarga cuántos "me gusta" tiene cada receta; eso no envía nada tuyo, y qué recetas te gustan lo recuerda tu propio móvil. Solo si pulsas el corazón de una receta, se guarda en nuestra base de datos (Supabase, Unión Europea) qué receta te ha gustado, la fecha y el mismo identificador aleatorio de dispositivo descrito en el punto 2, únicamente para que un mismo dispositivo no cuente dos veces. Si vuelves a pulsar el corazón, ese registro se borra. Base jurídica: tu consentimiento, que das al pulsar el corazón (art. 6.1.a del RGPD).
 
-**5. Premium (suscripción).** Si te suscribes, el pago lo gestiona **Apple o Google Play**, no nosotros: nunca vemos tu tarjeta ni tus datos de pago. Para saber si tienes Premium y qué precios mostrarte usamos **RevenueCat**, un servicio de suscripciones de una empresa de Estados Unidos que trata estos datos como encargado del tratamiento. La app lo consulta al abrirse, aunque no te suscribas, con un identificador aleatorio generado en tu móvil (no es tu nombre, tu correo ni un identificador publicitario) y, si compras, con el justificante de la compra. Ese identificador es el mismo que el del buzón de propuestas (apartado 3), no el de los apoyos ni el de los «me gusta»: si tienes Premium, RevenueCat nos comunica que está activo y hasta cuándo, y las propuestas que envíes se marcan como de Premium para revisarlas antes. No se cruza con lo que hayas apoyado ni con lo que te haya gustado. Base jurídica: la ejecución del contrato de suscripción (art. 6.1.b del RGPD).
+**5. Premium (suscripción).** Si te suscribes, el pago lo gestiona **Apple o Google Play**, no nosotros: nunca vemos tu tarjeta ni tus datos de pago. Para saber si tienes Premium y qué precios mostrarte usamos **RevenueCat**, un servicio de suscripciones de una empresa de Estados Unidos que trata estos datos como encargado del tratamiento. RevenueCat guarda estos datos en servidores de Estados Unidos y los protege con las cláusulas contractuales tipo de la Comisión Europea, incluidas en su acuerdo de tratamiento de datos. La app lo consulta al abrirse, aunque no te suscribas, con un identificador aleatorio generado en tu móvil (no es tu nombre, tu correo ni un identificador publicitario) y, si compras, con el justificante de la compra. Ese identificador es el mismo que el del buzón de propuestas (apartado 3), no el de los apoyos ni el de los «me gusta»: si tienes Premium, RevenueCat nos comunica que está activo y hasta cuándo, y las propuestas que envíes se marcan como de Premium para revisarlas antes. No se cruza con lo que hayas apoyado ni con lo que te haya gustado. Base jurídica: la ejecución del contrato de suscripción (art. 6.1.b del RGPD).
 
 Tu historial de escaneos, tus recetas favoritas, tus productos favoritos y tu preferencia de idioma se guardan únicamente en el almacenamiento local de tu dispositivo y nunca salen de él; puedes borrarlos desde la propia app o desinstalándola.
 
@@ -47,7 +47,7 @@ Para consultas sobre privacidad, escribe a **leora.agencia.ia@gmail.com**.
 
 # Privacy Policy — Fuera Tóxicos
 
-_Last updated: October 17, 2026_
+_Last updated: October 29, 2026_
 
 **Data controller:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
 
@@ -76,7 +76,7 @@ Legal basis for processing: your consent, given when you tap the support button 
 
 **4. Recipe likes.** When you open the Recipes section, the app downloads how many likes each recipe has; this sends nothing about you, and your own phone remembers which recipes you like. Only if you tap the heart on a recipe, we store in our database (Supabase, European Union) which recipe you liked, the date, and the same random device identifier described in point 2, solely so the same device is not counted twice. Tapping the heart again deletes that record. Legal basis: your consent, given by tapping the heart (Art. 6.1.a GDPR).
 
-**5. Premium (subscription).** If you subscribe, payment is handled by **Apple or Google Play**, not by us: we never see your card or payment details. To know whether you have Premium and which prices to show, we use **RevenueCat**, a subscription service from a US company that processes this data as a data processor. The app queries it when it opens, even if you do not subscribe, with a random identifier generated on your phone (not your name, email or an advertising identifier) and, if you buy, with the purchase receipt. That identifier is the same one used for the proposal inbox (section 3), not the one for supports or likes: if you have Premium, RevenueCat tells us it is active and until when, and the proposals you send are marked as Premium so we review them first. It is not linked to anything you have supported or liked. Legal basis: performance of the subscription contract (GDPR art. 6(1)(b)).
+**5. Premium (subscription).** If you subscribe, payment is handled by **Apple or Google Play**, not by us: we never see your card or payment details. To know whether you have Premium and which prices to show, we use **RevenueCat**, a subscription service from a US company that processes this data as a data processor. RevenueCat stores this data on servers in the United States and protects it with the European Commission's standard contractual clauses, included in its data processing agreement. The app queries it when it opens, even if you do not subscribe, with a random identifier generated on your phone (not your name, email or an advertising identifier) and, if you buy, with the purchase receipt. That identifier is the same one used for the proposal inbox (section 3), not the one for supports or likes: if you have Premium, RevenueCat tells us it is active and until when, and the proposals you send are marked as Premium so we review them first. It is not linked to anything you have supported or liked. Legal basis: performance of the subscription contract (GDPR art. 6(1)(b)).
 
 Your scan history, favourite recipes, favorited products, and language preference are stored only in your device's local storage and never leave it; you can remove them from within the app or by uninstalling it.
 

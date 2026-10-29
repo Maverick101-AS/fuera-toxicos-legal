@@ -1,6 +1,6 @@
 # Términos de uso — Fuera Tóxicos
 
-_Última actualización: 17 de octubre de 2026_
+_Última actualización: 29 de octubre de 2026_
 
 **Responsable y vendedor de la suscripción:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
 
@@ -20,13 +20,13 @@ Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas
 
 **7. Cambios.** Podemos actualizar estos términos y avisaremos dentro de la app si el cambio es relevante.
 
-**8. Ley aplicable.** Se rigen por la ley española. Si eres consumidor en la Unión Europea, conservas los derechos que te da la ley de tu país de residencia.
+**8. Ley aplicable.** Se rigen por la ley española. Si eres consumidor en la Unión Europea, conservas los derechos que te da la ley de tu país de residencia. Si hay diferencias entre versiones en otros idiomas, prevalece la versión en español.
 
 ---
 
 # Terms of Use — Fuera Tóxicos
 
-_Last updated: October 17, 2026_
+_Last updated: October 29, 2026_
 
 **Controller and subscription seller:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
 
@@ -46,4 +46,4 @@ These terms govern the use of **Fuera Tóxicos**. By using the app you accept th
 
 **7. Changes.** We may update these terms and will notify you in the app if the change is significant.
 
-**8. Governing law.** They are governed by Spanish law. If you are a consumer in the European Union, you keep the rights granted by the law of your country of residence.
+**8. Governing law.** They are governed by Spanish law. If you are a consumer in the European Union, you keep the rights granted by the law of your country of residence. If versions in other languages differ, the Spanish version prevails.
