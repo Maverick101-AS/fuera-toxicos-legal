@@ -1,6 +1,6 @@
 # Términos de uso — Fuera Tóxicos
 
-_Última actualización: 29 de octubre de 2026_
+_Última actualización: 6 de noviembre de 2026_
 
 **Responsable y vendedor de la suscripción:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
 
@@ -10,7 +10,7 @@ Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas
 
 **2. Uso permitido.** Puedes usar la app para uso personal y no comercial. No puedes copiar su contenido de forma masiva, intentar acceder a sus sistemas sin permiso ni enviar propuestas con contenido ilegal, ofensivo o que incluya datos de terceros.
 
-**3. Premium.** Premium es una suscripción opcional, mensual o anual, que desbloquea todas las estancias, el escáner sin límite diario y las recetas nuevas antes que el resto. El precio que ves antes de confirmar es el que cobra tu tienda. El pago se carga a tu cuenta de Apple o de Google Play, y la suscripción se renueva sola al terminar cada periodo salvo que la canceles al menos 24 horas antes desde los ajustes de suscripciones de tu cuenta de la tienda. Al cancelar mantienes Premium hasta el final del periodo ya pagado. Los reembolsos los gestiona la tienda según sus condiciones y los derechos que tengas como consumidor. La información de salud de la app (fichas, alimentos, plásticos, aprender y las recetas de siempre) es y seguirá siendo gratuita.
+**3. Premium.** Premium es una suscripción opcional, mensual o anual, que desbloquea todas las estancias, el escáner sin límite diario y las recetas nuevas antes que el resto. El precio que ves antes de confirmar es el que cobra tu tienda. El pago se carga a tu cuenta de Apple o de Google Play, y la suscripción se renueva sola al terminar cada periodo salvo que la canceles al menos 24 horas antes desde los ajustes de suscripciones de tu cuenta de la tienda. Al cancelar mantienes Premium hasta el final del periodo ya pagado. Los reembolsos los gestiona la tienda según sus condiciones y los derechos que tengas como consumidor. **Prueba gratuita:** el plan anual puede incluir 7 días gratis. Durante la prueba tienes todo Premium. Si no cancelas al menos 24 horas antes de que acabe, la tienda cobra el plan anual y se renueva solo cada año. Hay una sola prueba por cuenta de la tienda. Si cancelas durante la prueba, vuelves a la versión gratis cuando termine. La información de salud de la app (fichas, alimentos, plásticos, aprender y las recetas de siempre) es y seguirá siendo gratuita.
 
 **4. Propiedad intelectual.** Los textos, la selección de contenidos y el diseño de la app pertenecen a su autor. Las imágenes y vídeos están generados con inteligencia artificial y no muestran a personas reales. Las fuentes científicas enlazadas son de sus respectivos titulares.
 
@@ -26,7 +26,7 @@ Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas
 
 # Terms of Use — Fuera Tóxicos
 
-_Last updated: October 29, 2026_
+_Last updated: November 6, 2026_
 
 **Controller and subscription seller:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
 
@@ -36,7 +36,7 @@ These terms govern the use of **Fuera Tóxicos**. By using the app you accept th
 
 **2. Permitted use.** You may use the app for personal, non-commercial purposes. You may not mass-copy its content, try to access its systems without permission, or send proposals containing illegal or offensive content or third-party personal data.
 
-**3. Premium.** Premium is an optional monthly or yearly subscription that unlocks all rooms, the scanner without a daily limit and new recipes before everyone else. The price you see before confirming is the one your store charges. Payment is charged to your Apple or Google Play account, and the subscription renews automatically at the end of each period unless you cancel at least 24 hours before, from the subscription settings of your store account. If you cancel you keep Premium until the end of the period already paid. Refunds are handled by the store under its own terms and your rights as a consumer. The health information in the app (entries, foods, plastics, learn section and the regular recipes) is and will remain free.
+**3. Premium.** Premium is an optional monthly or yearly subscription that unlocks all rooms, the scanner without a daily limit and new recipes before everyone else. The price you see before confirming is the one your store charges. Payment is charged to your Apple or Google Play account, and the subscription renews automatically at the end of each period unless you cancel at least 24 hours before, from the subscription settings of your store account. If you cancel you keep Premium until the end of the period already paid. Refunds are handled by the store under its own terms and your rights as a consumer. **Free trial:** the yearly plan may include 7 free days. During the trial you get all of Premium. Unless you cancel at least 24 hours before it ends, the store charges the yearly plan and it renews automatically every year. There is one trial per store account. If you cancel during the trial, you go back to the free version when it ends. The health information in the app (entries, foods, plastics, learn section and the regular recipes) is and will remain free.
 
 **4. Intellectual property.** The texts, the selection of content and the design of the app belong to their author. Images and videos are AI-generated and do not show real people. Linked scientific sources belong to their respective owners.
 

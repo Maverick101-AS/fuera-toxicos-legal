@@ -1,6 +1,6 @@
 # Política de privacidad — Fuera Tóxicos
 
-_Última actualización: 29 de octubre de 2026_
+_Última actualización: 6 de noviembre de 2026_
 
 **Responsable del tratamiento:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
 
@@ -31,9 +31,11 @@ Base jurídica del tratamiento: tu consentimiento, que das al pulsar el botón d
 
 **5. Premium (suscripción).** Si te suscribes, el pago lo gestiona **Apple o Google Play**, no nosotros: nunca vemos tu tarjeta ni tus datos de pago. Para saber si tienes Premium y qué precios mostrarte usamos **RevenueCat**, un servicio de suscripciones de una empresa de Estados Unidos que trata estos datos como encargado del tratamiento. RevenueCat guarda estos datos en servidores de Estados Unidos y los protege con las cláusulas contractuales tipo de la Comisión Europea, incluidas en su acuerdo de tratamiento de datos. La app lo consulta al abrirse, aunque no te suscribas, con un identificador aleatorio generado en tu móvil (no es tu nombre, tu correo ni un identificador publicitario) y, si compras, con el justificante de la compra. Ese identificador es el mismo que el del buzón de propuestas (apartado 3), no el de los apoyos ni el de los «me gusta»: si tienes Premium, RevenueCat nos comunica que está activo y hasta cuándo, y las propuestas que envíes se marcan como de Premium para revisarlas antes. No se cruza con lo que hayas apoyado ni con lo que te haya gustado. Base jurídica: la ejecución del contrato de suscripción (art. 6.1.b del RGPD).
 
-Tu historial de escaneos, tus recetas favoritas, tus productos favoritos y tu preferencia de idioma se guardan únicamente en el almacenamiento local de tu dispositivo y nunca salen de él; puedes borrarlos desde la propia app o desinstalándola.
+Tu historial de escaneos, tus recetas favoritas, tus productos favoritos y tu preferencia de idioma se guardan en el almacenamiento local de tu dispositivo y no los enviamos a ningún servidor nuestro. Si tienes activada la copia de seguridad del móvil (iCloud o Google), se incluyen en ella, igual que los datos de tus otras apps. Puedes borrarlos desde la propia app o desinstalándola.
 
-Como en cualquier conexión a internet, los servicios con los que habla la app (Supabase, Open Food Facts, RevenueCat y GitHub) ven la dirección IP de tu dispositivo para atender la petición, y puede quedar en sus registros técnicos; nosotros no la usamos para identificarte.
+Como en cualquier conexión a internet, los servicios con los que habla la app (Supabase, Open Beauty Facts, Open Food Facts, Open Products Facts y RevenueCat) ven la dirección IP de tu dispositivo para atender la petición, y puede quedar en sus registros técnicos; nosotros no la usamos para identificarte.
+
+**Cuánto tiempo guardamos los datos del servidor.** Los apoyos y los «me gusta», mientras exista la propuesta o la receta. Las propuestas del buzón y el correo, hasta 12 meses después de responderte (o de recibirlas, si no dejaste correo). La copia de revisión en GitHub se borra al cerrar su revisión. Puedes borrar tus apoyos, tus «me gusta» y tus propuestas cuando quieras desde la app (Más → Política de privacidad → «Borrar mis datos del servidor»). Para la copia en GitHub o los datos de RevenueCat, escríbenos.
 
 Fuera Tóxicos no está dirigida a menores de 14 años ni recoge datos suyos de forma consciente.
 
@@ -47,7 +49,7 @@ Para consultas sobre privacidad, escribe a **leora.agencia.ia@gmail.com**.
 
 # Privacy Policy — Fuera Tóxicos
 
-_Last updated: October 29, 2026_
+_Last updated: November 6, 2026_
 
 **Data controller:** Antonio Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
 
@@ -78,9 +80,11 @@ Legal basis for processing: your consent, given when you tap the support button 
 
 **5. Premium (subscription).** If you subscribe, payment is handled by **Apple or Google Play**, not by us: we never see your card or payment details. To know whether you have Premium and which prices to show, we use **RevenueCat**, a subscription service from a US company that processes this data as a data processor. RevenueCat stores this data on servers in the United States and protects it with the European Commission's standard contractual clauses, included in its data processing agreement. The app queries it when it opens, even if you do not subscribe, with a random identifier generated on your phone (not your name, email or an advertising identifier) and, if you buy, with the purchase receipt. That identifier is the same one used for the proposal inbox (section 3), not the one for supports or likes: if you have Premium, RevenueCat tells us it is active and until when, and the proposals you send are marked as Premium so we review them first. It is not linked to anything you have supported or liked. Legal basis: performance of the subscription contract (GDPR art. 6(1)(b)).
 
-Your scan history, favourite recipes, favorited products, and language preference are stored only in your device's local storage and never leave it; you can remove them from within the app or by uninstalling it.
+Your scan history, favourite recipes, favorited products, and language preference are stored in your device's local storage and we never send them to any server of ours. If your phone's backup is turned on (iCloud or Google), they are included in it, like your other apps' data. You can remove them from within the app or by uninstalling it.
 
-As with any internet connection, the services the app talks to (Supabase, Open Food Facts, RevenueCat and GitHub) see your device's IP address to answer the request, and it may remain in their technical logs; we do not use it to identify you.
+As with any internet connection, the services the app talks to (Supabase, Open Beauty Facts, Open Food Facts, Open Products Facts and RevenueCat) see your device's IP address to answer the request, and it may remain in their technical logs; we do not use it to identify you.
+
+**How long we keep server data.** Supports and likes, for as long as the proposal or recipe exists. Inbox proposals and your email, up to 12 months after we reply (or after we receive them, if you left no email). The review copy on GitHub is deleted when its review is closed. You can delete your supports, likes and proposals at any time from the app (More → Privacy policy → «Delete my data from the server»). For the GitHub copy or RevenueCat data, contact us.
 
 Fuera Tóxicos is not aimed at children under 14 and does not knowingly collect their data.
 

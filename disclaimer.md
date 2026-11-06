@@ -1,6 +1,6 @@
 # Aviso legal — Fuera Tóxicos
 
-_Última actualización: 11 de octubre de 2026_
+_Última actualización: 6 de noviembre de 2026_
 
 ## Qué cubre este aviso
 
@@ -38,7 +38,7 @@ Las decisiones que tomes a partir de esta información son tuyas. En la medida m
 
 # Disclaimer — Fuera Tóxicos
 
-_Last updated: October 11, 2026_
+_Last updated: November 6, 2026_
 
 ## What this notice covers
 
