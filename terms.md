@@ -2,7 +2,7 @@
 
 _Última actualización: 6 de noviembre de 2026_
 
-**Responsable y vendedor de la suscripción:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
+**Responsable y vendedor de la suscripción:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: hola@leoradigital.es
 
 Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas.
 
@@ -28,7 +28,7 @@ Estos términos regulan el uso de **Fuera Tóxicos**. Al usar la app los aceptas
 
 _Last updated: November 6, 2026_
 
-**Controller and subscription seller:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
+**Controller and subscription seller:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: hola@leoradigital.es
 
 These terms govern the use of **Fuera Tóxicos**. By using the app you accept them.
 

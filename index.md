@@ -6,4 +6,4 @@ App educativa sobre disruptores endocrinos en casa · Educational app about endo
 - [Términos de uso / Terms of use](terms.md)
 - [Descargo de responsabilidad / Disclaimer](disclaimer.md)
 
-Contacto / Contact: leora.agencia.ia@gmail.com
+Contacto / Contact: hola@leoradigital.es

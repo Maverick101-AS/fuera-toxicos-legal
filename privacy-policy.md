@@ -2,7 +2,7 @@
 
 _Última actualización: 6 de noviembre de 2026_
 
-**Responsable del tratamiento:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: leora.agencia.ia@gmail.com
+**Responsable del tratamiento:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (España). Contacto: hola@leoradigital.es
 
 **Fuera Tóxicos** no te pide registro ni cuenta de usuario, no recopila tu nombre ni ningún dato que te identifique —la única excepción es el correo que puedes dejar, si quieres, al enviar una propuesta (punto 3)— y no incluye anuncios ni herramientas de seguimiento o analítica de terceros. Todo el contenido informativo (fichas de químicos, sustituciones, evidencia científica) está incluido en la app y se puede consultar sin conexión a internet.
 
@@ -43,7 +43,7 @@ Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, l
 
 Si en el futuro se añadiera cualquier función adicional que implique tratamiento de datos, esta política se actualizará antes de su activación y se notificará dentro de la app.
 
-Para consultas sobre privacidad, escribe a **leora.agencia.ia@gmail.com**.
+Para consultas sobre privacidad, escribe a **hola@leoradigital.es**.
 
 ---
 
@@ -51,7 +51,7 @@ Para consultas sobre privacidad, escribe a **leora.agencia.ia@gmail.com**.
 
 _Last updated: November 6, 2026_
 
-**Data controller:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: leora.agencia.ia@gmail.com
+**Data controller:** Antonio Alfonso Salas Poveda, Calle Junco 26, 30834 Murcia (Spain). Contact: hola@leoradigital.es
 
 **Fuera Tóxicos** asks for no sign-up or user account and collects no name or data that identifies you — the only exception is the email you may optionally leave when sending a proposal (point 3) — and includes no ads or third-party tracking/analytics tools. All informational content (chemical entries, swaps, scientific evidence) ships with the app and can be read offline.
 
@@ -92,4 +92,4 @@ You can exercise your rights of access, rectification, erasure, objection, restr
 
 If any future feature were to involve additional data processing, this policy will be updated before it is enabled, and this will be noted in the app.
 
-For privacy questions, contact **leora.agencia.ia@gmail.com**.
+For privacy questions, contact **hola@leoradigital.es**.
